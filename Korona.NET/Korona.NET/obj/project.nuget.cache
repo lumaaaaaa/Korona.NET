@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CxuYqxOxhTsMgx6iDE35089SIGE4+C3/iwOa5r5HxeA6Yo5r82TPGMGyAKYWdbBFNjhsbI0NSlhiNTQAYdH6pQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\devin\\source\\repos\\Korona.NET\\Korona.NET\\Korona.NET.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\devin\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
