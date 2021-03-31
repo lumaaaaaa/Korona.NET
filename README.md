@@ -1,7 +1,7 @@
 # Korona.NET
 Korona.NET, a Novel Coronavirus tracker (redone in C# and WPF for a much nicer UI)
 
-![Preview](https://i.ibb.co/SKBLdZR/yuh.png)
+![Preview](https://luma.pw/imgupload/headingkorona.png)
 # How it Works
 Korona.NET grabs it's data from an API created by https://corona.lmao.ninja/ (thanks so much :D) and then deserializes the JSON to a class using the "Newtonsoft.JSON" library. It then updates the text on a TextBlock. Simple.
 
